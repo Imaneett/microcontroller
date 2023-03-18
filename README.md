@@ -1,2 +1,11 @@
 # microcontroller
-Design of a microcontroller on an FPGA using VHDL.
+This project implements a microcontroller using a Field-Programmable Gate Array (FPGA) and the VHDL hardware description language. The microcontroller can execute a set of basic instructions, including arithmetic and logical operations, memory access, and control flow instructions. <br />
+## Software Requirements
+  a.Xilinx ISE Design Suite (version 14.7 or later) <br />
+  b.VHDL synthesis and simulation tools (such as ModelSim). <br />
+## Installation
+### Xilinx ISE Design Suite
+    1.Download Xilinx ISE Design Suite from the [Xilinx website](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/design-       tools.html).<br />
+    2.Install the software according to the instructions provided by Xilinx.<br />
+    3.Set up the environment variables for Xilinx ISE.<br />
+    
